@@ -47,7 +47,7 @@ Please ensure that the use of this tool complies with all applicable laws and re
 
 ## License
 
-This is under the MIT license, more info in the Legal.md file
+This is under the MIT license, more info in the License.md file
 
 ## Contact Information
 
