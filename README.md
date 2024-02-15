@@ -4,7 +4,7 @@
 
 ## Description
 
-USB Portable Logger is a Python-based utility designed to perform keylogging tasks. It is packaged with a portable version of Python  3.12, allowing it to run on any system without prior installation.
+USB Portable Logger is a Windows-based utility designed to perform keylogging tasks, Allowing it to run on any system without prior installation.
 
 ## Features
 
@@ -24,9 +24,10 @@ USB Portable Logger is a Python-based utility designed to perform keylogging tas
 ### Setup
 
 1. Connect the USB drive to the target system.
-2. Whitelist the virus threat if detected by the antivirus software.
-3. Execute the Python program from the USB drive.
-4. Follow the menu steps on the Python sheel to perform the desired actions.
+2. Extract the .zip file to the USB.
+3. Double check the extrcted folder if it contains 7 files and no antivirus disables it.
+4. Whitelist the virus threat if detected by the antivirus software.
+
 
 ## Usage
 
