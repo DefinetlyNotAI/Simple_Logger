@@ -18,7 +18,7 @@ USB Portable Logger is a Windows-based utility designed to perform keylogging ta
 
 ### Prerequisites
 
-- A USB drive that has been formatted, to store the files in (No USB Burning Needed).
+- A USB drive that has been formatted, to store the files in (No USB Burning Needed!).
 - A target system (Only supports Windows) where the keylogger will be deployed.
 
 ### Setup
