@@ -27,7 +27,7 @@ USB Portable Logger is a Windows-based utility designed to perform keylogging ta
 2. Extract the .zip file to the USB.
 3. Double check the extrcted folder if it contains 7 files and no antivirus disables it.
 4. Whitelist the virus threat if detected by the antivirus software.
-5. A Crash can occur if run raw.. So use a IDE or PyCharm until further notice
+5. A Crash can occur if run raw.. So use either an IDE or PyCharm or via the terminal with `python KeyLogger.py` (First change directories via `cd Dependency/` if your in the root folder) until further notice
 
 ## Usage
 
